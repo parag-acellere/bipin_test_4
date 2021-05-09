@@ -20,5 +20,3 @@ elseif(1)
 {
         return false;
 }
-console.log("Hello");
-var a =10;
