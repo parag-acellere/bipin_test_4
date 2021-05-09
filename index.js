@@ -20,3 +20,5 @@ elseif(1)
 {
         return false;
 }
+console.log("Hello World");
+var a =5;
