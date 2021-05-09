@@ -1,22 +1,8 @@
-if (!req.body.lastName || req.body.lastName == "") {
-        return next(new errors.BadRequest('Please enter last name.', 1000));
-    }
-    if (!email || email == "") {
-        return next(new errors.BadRequest('Please enter email id.', 1000));
-    }
+const num1 = 5;
+const num2 = 3;
 
-if (!email || email == "") {
-        a = 100;
-        b = 100;
-        c = 101;
-        d=104;
-        x = b;
-        return next(new errors.BadRequest('Please enter email id.', 1000));
-    }
-    if (!emailPattern.test(email)) {
-        return next(new errors.BadRequest('Please enter valid email address.', 1000));
-    }
-elseif(1)
-{
-        return false;
-}
+// add two numbers
+const sum = num1 + num2;
+
+// display the sum
+console.log('The sum of ' + num1 + ' and ' + num2 + ' is: ' + sum);
