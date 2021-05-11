@@ -9,4 +9,4 @@ console.log('The sum of ' + num1 + ' and ' + num2 + ' is: ' + sum);
 var a =5;
 var z=10;
 var x=10;
-var y=1;
+var y=10;
