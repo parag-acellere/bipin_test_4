@@ -8,3 +8,4 @@ const sum = num1 + num2;
 console.log('The sum of ' + num1 + ' and ' + num2 + ' is: ' + sum);
 var a =5;
 var z=10;
+var x=10;
