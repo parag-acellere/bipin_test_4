@@ -17,3 +17,4 @@ switch (foo) {
         // do nothing
 }
 var num = new {}();
+
