@@ -1,9 +1,6 @@
 alert("Hello world");
 console.log('Test');
-var a=10;
-var b=4;
 debugger;
-
 switch (foo) {
     case 1:
         doSomething();
@@ -17,3 +14,4 @@ switch (foo) {
         // do nothing
 }
 var num = new {}();
+var z=10
