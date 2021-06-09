@@ -1,6 +1,5 @@
 [![Build Status](http://localhost:4200/api/v2/repositories/05f022faaebb4d675e087531c91d80d9/badges/rating)](http://localhost:4200/api/v2/repositories/05f022faaebb4d675e087531c91d80d9)
 
-
 ==========
 [![Quality Gate](https://next.sonarqube.com/sonarqube/api/project_badges/measure?project=org.sonarsource.java%3Ajava&metric=alert_status)](https://next.sonarqube.com/sonarqube/dashboard?id=org.sonarsource.java%3Ajava)
 ==========
