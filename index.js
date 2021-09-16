@@ -1,5 +1,5 @@
 const num1 = 5;
-const num2 = 4;
+const num2 = 1;
 
 // add two numbers
 const sum = num1 + num2;
